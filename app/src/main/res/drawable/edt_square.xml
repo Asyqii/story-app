@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Warna latar belakang, Anda bisa menggantinya -->
+    <corners android:radius="8dp"/> <!-- Menambahkan radius sudut agar agak melengkung, bisa disesuaikan -->
+    <stroke android:width="2dp"/>
+</shape>
